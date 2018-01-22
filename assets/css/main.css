@@ -1643,7 +1643,7 @@
 		color: #ffffff;
 		font-family: 'Shrikhand', sans-serif;
 		font-size: 16pt;
-		font-weight: 400;
+		font-weight: 300;
 		line-height: 1.75;
 	}
 
@@ -3196,7 +3196,7 @@
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #F2839D;
+		background-color: #bbc1cc;
 	}
 
 		#footer > .inner {
