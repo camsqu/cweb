@@ -1696,7 +1696,7 @@
 		line-height: 1.3;
 		margin: 0 0 1em 0;
 		letter-spacing: -0.035em;
-		color: white;
+		color: #F2839D;
 	}
 
 		h1 a {
@@ -2733,7 +2733,11 @@
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+<<<<<<< HEAD
+				/*background-color: #f2849e;*/
+=======
+				background-color: #ffffff;
+>>>>>>> 690f741f0a1ba216d59a056141f1992f27bf5b4f
 			}
 
 			.tiles article.style2 > .image:before {
@@ -3196,7 +3200,7 @@
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #bbc1cc;
+		background-color: #F2839D;
 	}
 
 		#footer > .inner {
