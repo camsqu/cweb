@@ -1845,7 +1845,7 @@
 
 	header p {
 		margin-top: -1em;
-		background-color: white
+		color: white
 	}
 
 	@media screen and (max-width: 736px) {
