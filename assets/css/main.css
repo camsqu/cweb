@@ -24,7 +24,6 @@
 
 	body {
 		line-height: 1;
-		background-color: black;
 	}
 
 	ol, ul {
@@ -1624,7 +1623,7 @@
 	}
 
 	body {
-		background: #ffffff;
+		background: #000000;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1845,6 +1844,7 @@
 
 	header p {
 		margin-top: -1em;
+		background-color: white
 	}
 
 	@media screen and (max-width: 736px) {
