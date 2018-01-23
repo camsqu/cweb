@@ -2733,7 +2733,11 @@
 					}
 
 			.tiles article.style1 > .image:before {
+<<<<<<< HEAD
+				/*background-color: #f2849e;*/
+=======
 				background-color: #ffffff;
+>>>>>>> 690f741f0a1ba216d59a056141f1992f27bf5b4f
 			}
 
 			.tiles article.style2 > .image:before {
