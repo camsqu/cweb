@@ -1646,9 +1646,6 @@
 		font-weight: 300;
 		line-height: 1.75;
 	}
-	span {
-		font-family: 'Shrikhand', sans-serif;
-	}
 
 		@media screen and (max-width: 1680px) {
 
