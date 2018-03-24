@@ -2701,7 +2701,7 @@
 				padding: 1em;
 				border-radius: 4px;
 				border-bottom: 0;
-				color: #ffffff;
+				color: #000000;
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
@@ -2735,9 +2735,9 @@
 						margin-bottom: 0;
 					}
 
-			.tiles article.style1 > .image:before {
+	/*		.tiles article.style1 > .image:before {
 				/*background-color: #f2849e;*/
-				background-color: #ffffff;
+		/*		background-color: #ffffff;
 			}
 
 			.tiles article.style2 > .image:before {
@@ -2758,7 +2758,7 @@
 
 			.tiles article.style6 > .image:before {
 				background-color: #8499e7;
-			}
+			} */
 
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
