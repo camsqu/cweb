@@ -40,8 +40,8 @@
 	}
 
 	table {
-		border-collapse: collapse;
-		border-spacing: 0;
+		/*border-collapse: collapse;
+		border-spacing: 0; */
 	}
 
 	body {
@@ -2398,7 +2398,7 @@
 
 	table {
 		margin: 0 0 2em 0;
-		width: 100%;
+		width: 60%;
 	}
 
 		table tbody tr {
